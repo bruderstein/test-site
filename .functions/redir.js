@@ -6,6 +6,6 @@ exports.handler = function (event, context, callback) {
     headers: {
       location: 'https://soundcloud.com/dave-b111/unique-2?via=redir'
     },
-    body: 'Redirecting...'
+    body: 'Redirecting 2...'
   });
 }
